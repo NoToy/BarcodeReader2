@@ -1,7 +1,7 @@
 package com.caolan.barcodereader;
 
 /*
-This is a comment block for test of Git
+This is a comment block for test of Git.
  */
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
